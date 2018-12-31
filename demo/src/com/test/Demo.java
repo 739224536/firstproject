@@ -7,5 +7,8 @@ public class Demo {
 
 		
 	}
+	public void execute(){
+		
+	}
 
 }
